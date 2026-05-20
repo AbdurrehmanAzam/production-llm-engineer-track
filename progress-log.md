@@ -12,8 +12,8 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 
 ## 🎯 Current Focus & Next Up
 
-- **Current Focus:** `Phase 1.4` – uv Package Manager (integrating uv with existing projects) & reviewing Git workflow.
-- **Next Up:** Complete Phase 1.4 (uv commands, virtual environments, `uv run`), then begin Phase 2 (Algorithm Engineering – NeetCode 150) in parallel with Phase 3 (Dev Environment & AI Tools).
+- **Current Focus:** `Phase 1.5` – Git & GitHub (core workflow, branching, merging, remote sync).
+- **Next Up:** Complete Phase 1.5 (watch Git video, play branching game), then begin Phase 2 (Algorithm Engineering – NeetCode 150) in parallel with Phase 3 (Dev Environment & AI Tools).
 
 ---
 
@@ -49,7 +49,8 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 | **2026-05-17** | `Phase 01` | NumPy Linear Algebra, Manipulation & Masking | Mastered array manipulation (`reshape`, `vstack`, `hstack`), external data loading (`genfromtxt`), matrix multiplication (`matmul`), determinant calculation, statistical aggregations (`axis`), and advanced boolean masking. Executed atomic commits with industry-standard file naming conventions. |
 | **2026-05-18** | `Phase 01` | Matplotlib Foundations | Initialized Matplotlib via `uv`. Implemented multi-line charts comparing developer salaries by age. Configured axes labels, titles, legends, and custom line markers/styles. |
 | **2026-05-19** | `Phase 01` | Matplotlib Parts 1‑5 (Line, Bar, CSV, Pie, Stack) | Completed the selective Matplotlib tutorial (Corey Schafer Parts 1‑5). Created and committed 5 scripts: `13_line_charts.py` (fixed styling), `14_bar_charts.py` (grouped bar chart), `15_adding_CSV_file.py` (horizontal bar chart from company profit CSV), `16_pie_charts.py` (subject marks percentage pie chart), `17_stack_plots.py` (player score stack plot). Used `fivethirtyeight` and `ggplot` styles, manual CSV loading, and various customizations (`explode`, `autopct`, `shadow`, `wedgeprops`). Committed each file separately with conventional commits. Also added `pyproject.toml`, `uv.lock`, `.python-version` to track the uv environment. |
-| **2026-05-20** | `Phase 01` | Matplotlib Part 6 – Fill Between | Created `18_fill_betweens.py` demonstrating `fill_between` with conditional shading. Plotted median salaries of all developers vs Python developers. Used `where` parameter to shade areas above and below average in different colours (`alpha=0.25`, interpolate). Committed as separate file. |
+| **2026-05-19** | `Phase 01` | Matplotlib Part 6 – Fill Between | Created `18_fill_betweens.py` demonstrating `fill_between` with conditional shading. Plotted median salaries of all developers vs Python developers. Used `where` parameter to shade areas above and below average in different colours (`alpha=0.25`, interpolate). Committed as separate file. |
+| **2026-05-20** | `Phase 01` | uv Package Manager (Phase 1.4) | Read official uv documentation (Getting Started, First steps, Working on projects) and “uv in 5 Minutes” blog post. Learned commands: `uv init`, `uv add`, `uv run`, `uv sync`. Understood how uv replaces pip/venv for Python 3.12 projects. |
 
 ---
 
