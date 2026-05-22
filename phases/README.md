@@ -1,7 +1,25 @@
-# Phases Directory
+# Phases Directory (2026 Ultimate Edition)
 
-Contains per-phase progress, notes, deliverables, and resource lists.
+All phases reflect the order, names, and deliverables from the AI_Roadmap_2026_Complete.txt roadmap.
 
-- [Phase 1: Programming Foundations](./phase-01-programming-foundations/README.md)
-- [Phase 2: Algorithm Engineering](./phase-02-algorithm-engineering/README.md)
-- *(...future phases will appear as you advance)*
+- [Phase 01: Programming Foundations](./phase-01-programming-foundations/README.md)
+- [Phase 02: Algorithm Engineering](./phase-02-algorithm-engineering/README.md)
+- [Phase 03: Dev Environment & AI Tools](./phase-03-dev-environment-and-ai-tools/README.md)
+- [Phase 03B: Model Context Protocol (MCP)](./phase-03b-model-context-protocol/README.md)
+- [Phase 04: Mathematics for AI + German A2](./phase-04-mathematics-for-ai-german-a2/README.md)
+- [Phase 05: Data Engineering](./phase-05-data-engineering/README.md)
+- [Phase 05B: Databases for AI](./phase-05b-databases-for-ai/README.md)
+- [Phase 06: Classical Machine Learning](./phase-06-classical-machine-learning/README.md)
+- [Phase 06B: ML System Design Primer](./phase-06b-ml-system-design-primer/README.md)
+- [Phase 07: Production Engineering + Eval CI Gate](./phase-07-production-engineering-eval-ci/README.md)
+- [Phase 07B: Software Engineering Hygiene + Data Validation](./phase-07b-software-engineering-hygiene-validation/README.md)
+- [Phase 08: Deep Learning](./phase-08-deep-learning/README.md)
+- [Phase 08.5: Open-Source LLM Deployment](./phase-08.5-open-source-llm-deployment/README.md)
+- [Phase 09: MLOps](./phase-09-mlops/README.md)
+- [Phase 09B: Responsible AI & Ethics](./phase-09b-responsible-ai-ethics/README.md)
+- [Phase 09C: LLM Alignment — RLHF & DPO + Local LoRA](./phase-09c-llm-alignment-rlhf-lora/README.md)
+- [Phase 09D: Feature Stores — Feast](./phase-09d-feature-stores-feast/README.md)
+- [Phase 09E: Reasoning Model Engineering](./phase-09e-reasoning-model-engineering/README.md)
+- [Phase 10: Generative AI + Web Ingestion](./phase-10-generative-ai-web-ingestion/README.md)
+- [Phase 10B: Advanced RAG Evaluation + Document Parsing](./phase-10b-advanced-rag-document-parsing/README.md)
+- [Phase 10C: GraphRAG & Advanced Retrieval](./phase-10c-graphrag-advanced-retrieval/README.md)
