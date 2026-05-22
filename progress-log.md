@@ -12,8 +12,10 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 
 ## 🎯 Current Focus & Next Up
 
-- **Current Focus:** `Phase 1.5` – Git & GitHub (watching video, playing branching game). Half of the 1‑hour Git video completed today.
-- **Next Up:** Complete remaining Git video and branching game tomorrow, then begin Phase 2 (Algorithm Engineering – NeetCode 150).
+- **Current Focus:** `Phase 2` – Algorithm Engineering (NeetCode 150, 50 problems max, parallel with Phases 3‑6).
+- **Next Up:** Start Phase 2 – Arrays & Hashing problems on NeetCode, while keeping daily LeetCode practice.
+
+**Phase 1 is now fully complete.** ✅
 
 ---
 
@@ -51,14 +53,15 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 | **2026-05-19** | `Phase 01` | Matplotlib Parts 1‑5 (Line, Bar, CSV, Pie, Stack) | Completed the selective Matplotlib tutorial (Corey Schafer Parts 1‑5). Created and committed 5 scripts: `13_line_charts.py` (fixed styling), `14_bar_charts.py` (grouped bar chart), `15_adding_CSV_file.py` (horizontal bar chart from company profit CSV), `16_pie_charts.py` (subject marks percentage pie chart), `17_stack_plots.py` (player score stack plot). Used `fivethirtyeight` and `ggplot` styles, manual CSV loading, and various customizations (`explode`, `autopct`, `shadow`, `wedgeprops`). Committed each file separately with conventional commits. Also added `pyproject.toml`, `uv.lock`, `.python-version` to track the uv environment. |
 | **2026-05-19** | `Phase 01` | Matplotlib Part 6 – Fill Between | Created `18_fill_betweens.py` demonstrating `fill_between` with conditional shading. Plotted median salaries of all developers vs Python developers. Used `where` parameter to shade areas above and below average in different colours (`alpha=0.25`, interpolate). Committed as separate file. |
 | **2026-05-20** | `Phase 01` | uv Package Manager (Phase 1.4) | Read official uv documentation (Getting Started, First steps, Working on projects) and “uv in 5 Minutes” blog post. Learned commands: `uv init`, `uv add`, `uv run`, `uv sync`. Understood how uv replaces pip/venv for Python 3.12 projects. |
-| **2026-05-21** | `Phase 01` | Git & GitHub (Phase 1.5 – in progress) | Watched first 30 minutes of “Git and GitHub for Beginners” (Gwen Faraday). Learned about `git init`, `git add`, `git commit`, `git log`, and basic branching concepts. Remaining half and branching game scheduled for tomorrow. |
+| **2026-05-21** | `Phase 01` | Git & GitHub (Phase 1.5 – partial) | Watched first 30 minutes of “Git and GitHub for Beginners” (Gwen Faraday). Learned about `git init`, `git add`, `git commit`, `git log`, and basic branching concepts. |
+| **2026-05-22** | `Phase 01` | Git & GitHub (Phase 1.5 – completed) | Finished remaining 30 minutes of the Git video. Completed “Introduction Sequence” and “Ramping Up” on Learn Git Branching (30 min). Reinforced branching, merging, remote sync, and conflict resolution. **Phase 1 is now fully complete.** |
 
 ---
 
 ## 📋 Phase Quick-Reference
 *For a detailed breakdown, see the main [README.md](README.md).*
 
-* **Phase 1:** Programming Foundations (Python, OOP, NumPy, Matplotlib, Git) – in progress (Phase 1.5 remaining)
+* **Phase 1:** Programming Foundations (Python, OOP, NumPy, Matplotlib, Git) – ✅ COMPLETE
 * **Phase 2:** Algorithm Engineering (LeetCode, NeetCode 150)
 * **Phase 3:** Dev Environment & AI Tools (Linux, SSH, Cursor)
 * **Phase 4:** Mathematics for AI (Linear Algebra, Calculus, Stats)
