@@ -13,7 +13,7 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 ## 🎯 Current Focus & Next Up
 
 - **Current Focus:** `Phase 2` – Algorithm Engineering (NeetCode 150, 50 problems max, parallel with Phases 3‑6).
-- **Next Up:** Start Phase 2 – Arrays & Hashing problems on NeetCode, while keeping daily LeetCode practice.
+- **Next Up:** Solve **Valid Anagram** (LeetCode) and continue Linux commands (Day 2 – redirection, pipes, `grep`, `find`).
 
 **Phase 1 is now fully complete.** ✅
 
@@ -54,7 +54,8 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 | **2026-05-19** | `Phase 01` | Matplotlib Part 6 – Fill Between | Created `18_fill_betweens.py` demonstrating `fill_between` with conditional shading. Plotted median salaries of all developers vs Python developers. Used `where` parameter to shade areas above and below average in different colours (`alpha=0.25`, interpolate). Committed as separate file. |
 | **2026-05-20** | `Phase 01` | uv Package Manager (Phase 1.4) | Read official uv documentation (Getting Started, First steps, Working on projects) and “uv in 5 Minutes” blog post. Learned commands: `uv init`, `uv add`, `uv run`, `uv sync`. Understood how uv replaces pip/venv for Python 3.12 projects. |
 | **2026-05-21** | `Phase 01` | Git & GitHub (Phase 1.5 – partial) | Watched first 30 minutes of “Git and GitHub for Beginners” (Gwen Faraday). Learned about `git init`, `git add`, `git commit`, `git log`, and basic branching concepts. |
-| **2026-05-22** | `Phase 01` | Git & GitHub (Phase 1.5 – completed) | Finished remaining 30 minutes of the Git video. Completed “Introduction Sequence” and “Ramping Up” on Learn Git Branching (30 min). Reinforced branching, merging, remote sync, and conflict resolution. **Phase 1 is now fully complete.** |
+| **2026-05-22** | `Phase 01` | Git & GitHub (Phase 1.5 – partial) | Finished remaining 30 minutes of the Git video. Practiced `git branch`, `git merge`, and remote sync. Branching game still pending. |
+| **2026-05-23** | `Phase 01` `Phase 02` `Phase 03` | Git branching game + LeetCode + Linux Day 1 | **Completed** “Introduction Sequence” and “Ramping Up” on Learn Git Branching (Phase 1.5 finalised). **Solved** Two Sum (LeetCode, brute force). **Watched** Day 1 of Linux commands (up to `tail`). Practiced `pwd`, `ls`, `cd`, `mkdir`, `touch`, `cp`, `mv`, `rm`, `head`, `tail`. Also finalised WSL2 + VS Code + Code Runner configuration. **Phase 1 is now fully complete.** |
 
 ---
 
