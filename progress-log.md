@@ -12,10 +12,11 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 
 ## 🎯 Current Focus & Next Up
 
-- **Current Focus:** `Phase 2` – Algorithm Engineering (NeetCode 150) and `Phase 3` – Linux command line (Day 3: permissions, processes, `chmod`, `ps`, `kill`).
-- **Next Up:** Solve **Contains Duplicate** (LeetCode) and complete Linux Day 3.
+- **Current Focus:** `Phase 2` – Algorithm Engineering (NeetCode 150, 50 problems max, parallel with Phases 3‑6).
+- **Next Up:** Continue Phase 2 (next problem: **Group Anagrams**) and prepare for Phase 4 (Mathematics for AI) – start watching 3Blue1Brown Linear Algebra videos.
 
 **Phase 1 is fully complete.** ✅
+**Phase 3 is now fully complete.** ✅
 
 ---
 
@@ -56,8 +57,9 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 | **2026-05-21** | `Phase 01` | Git & GitHub (Phase 1.5 – partial) | Watched first 30 minutes of “Git and GitHub for Beginners” (Gwen Faraday). Learned about `git init`, `git add`, `git commit`, `git log`, and basic branching concepts. |
 | **2026-05-22** | `Phase 01` | Git & GitHub (Phase 1.5 – partial) | Finished remaining 30 minutes of the Git video. Practiced `git branch`, `git merge`, and remote sync. Branching game still pending. |
 | **2026-05-23** | `Phase 01` `Phase 02` `Phase 03` | Git branching game + LeetCode + Linux Day 1 | **Completed** “Introduction Sequence” and “Ramping Up” on Learn Git Branching (Phase 1.5 finalised). **Solved** Two Sum (LeetCode, brute force). **Watched** Day 1 of Linux commands (up to `tail`). Practiced `pwd`, `ls`, `cd`, `mkdir`, `touch`, `cp`, `mv`, `rm`, `head`, `tail`. Also finalised WSL2 + VS Code + Code Runner configuration. **Phase 1 is now fully complete.** |
-| **2026-05-24** | `Phase 02` `Admin` | LeetCode + Environment | **Solved** Valid Anagram using `collections.Counter` (later learned manual dictionary approach). Understood `uv`’s automatic environment repair when `.venv` is broken. Updated `leetcode-solutions.md` and committed/pushed independently. |
-| **2026-05-24** | `Phase 03` | Linux Day 2 – Text Processing & Searching | Completed Day 2 of Linux commands. Learned redirection (`>`, `>>`, `2>`, `&>`), pipes (`|`), `cat`, `less`, `echo`, `wc`, `sort`, `uniq`, `diff`, `find`, and `grep`. Practiced building pipelines and searching files. |
+| **2026-05-24** | `Phase 02` & `Phase 03` | LeetCode + Linux Day 2 | **Solved** Valid Anagram (NeetCode). Completed Day 2 of Linux commands (redirection, pipes, `grep`, `find`, `sort`, `uniq`, `diff`). |
+| **2026-05-25** | `Phase 02` | Algorithm Engineering | **Solved** Contains Duplicate using set. |
+| **2026-05-26** | `Phase 02` & `Phase 03` | Algorithm Engineering + Linux Command Line | Solved **Contains Duplicate** (NeetCode 150) using set. Completed Linux command line video (navigation, file operations, redirection, pipes, `grep`, `find`, permissions, processes). Phase 3 is now fully complete. |
 
 ---
 
@@ -66,7 +68,7 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 
 * **Phase 1:** Programming Foundations (Python, OOP, NumPy, Matplotlib, Git) – ✅ COMPLETE
 * **Phase 2:** Algorithm Engineering (LeetCode, NeetCode 150)
-* **Phase 3:** Dev Environment & AI Tools (Linux, SSH, Cursor)
+* **Phase 3:** Dev Environment & AI Tools (Linux, SSH, Cursor) – ✅ COMPLETE
 * **Phase 4:** Mathematics for AI (Linear Algebra, Calculus, Stats)
 * **Phase 5 & 5B:** Data Engineering & AI Databases (SQL, Pandas, DVC, pgvector)
 * **Phase 6 & 6B:** Classical Machine Learning & System Design Primer
