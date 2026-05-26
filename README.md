@@ -65,7 +65,7 @@ Focus on space‑time complexity (Big O) and moving from brute‑force to optimi
 - **Target:** 50 high‑quality solutions from the NeetCode 150 benchmark.
 - **Core Topologies:** Arrays, hash maps, stacks, binary search trees, graph traversal.
 - **Methodology:** Deep pattern recognition > passive repetition.
-  *“50 analysed algorithms > 200 brute‑forced solutions.”*
+   *“50 analysed algorithms > 200 brute‑forced solutions.”*
 - **Current Execution:** Complexity analysis documented natively in .py files.
 
 ### ⏳ Upcoming Phases (03 – 10)
@@ -85,8 +85,17 @@ Focus on space‑time complexity (Big O) and moving from brute‑force to optimi
 
 ## 🇩🇪 German A2 Parallel Track (Mandatory)
 From Phase 4 onward, 30 min/day of German is required.
-- **Primary resource:** [DW Learn German – Nicos Weg A1 → A2](https://learngerman.dw.com/en/nicos-weg/c-37813026)
-- **Progress log:** [language-log/](language-log/) – updated weekly.
+
+| Resource | Link | Notes |
+| :--- | :--- | :--- |
+| **Learn German with Anja** | [youtube.com/@LearnGermanWithAnja](https://youtube.com/@LearnGermanWithAnja) | English explanations, slow, fun – start with A1 playlist |
+| **Duolingo** | [duolingo.com](https://duolingo.com) | Gamified, builds basic vocab & grammar |
+| **Goethe Institute** | [goethe.de/en/spr/ueb.html](https://www.goethe.de/en/spr/ueb.html) | Free, structured A1 exercises (sign‑up required) |
+| **DW Learn German** | [learngerman.dw.com/en](https://learngerman.dw.com/en) | Try Nicos Weg A1 (if site is accessible) |
+
+**Weekly routine:**
+- Daily: 10 min Duolingo + 15 min YouTube lesson
+- Weekly progress log in [language-log/](language-log/) (words learned, lessons completed)
 
 ---
 
