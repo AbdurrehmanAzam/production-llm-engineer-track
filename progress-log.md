@@ -12,11 +12,11 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 
 ## 🎯 Current Focus & Next Up
 
-- **Current Focus:** `Phase 2` – Algorithm Engineering (NeetCode 150, 50 problems max) and `Phase 3` – Linux command line (remaining ~30 min permissions/processes + SSH Crash Course).
-- **Next Up:** Finish remaining Linux video (permissions, processes) and SSH course. Then move to Phase 4 (Mathematics for AI – 3Blue1Brown) or continue Phase 2.
+- **Current Focus:** `Phase 2` – Algorithm Engineering (NeetCode 150, 50 problems max). `Phase 3` is now **complete** (Linux command line + SSH crash course finished 2026-05-26).
+- **Next Up:** Move to `Phase 4` – Mathematics for AI (3Blue1Brown linear algebra & calculus) while continuing Phase 2.
 
 **Phase 1 is fully complete.** ✅
-**Phase 3 is in progress** – about 50 minutes of video/practice left.
+**Phase 3 is fully complete.** ✅ (Finished 2026-05-26)
 
 ---
 
@@ -59,7 +59,7 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 | **2026-05-23** | `Phase 01` `Phase 02` `Phase 03` | Git branching game + LeetCode + Linux Day 1 | **Completed** “Introduction Sequence” and “Ramping Up” on Learn Git Branching (Phase 1.5 finalised). **Solved** Two Sum (LeetCode, brute force). **Watched** Day 1 of Linux commands (up to `tail`). Practiced `pwd`, `ls`, `cd`, `mkdir`, `touch`, `cp`, `mv`, `rm`, `head`, `tail`. Also finalised WSL2 + VS Code + Code Runner configuration. **Phase 1 is now fully complete.** |
 | **2026-05-24** | `Phase 02` & `Phase 03` | LeetCode + Linux Day 2 | **Solved** Valid Anagram (NeetCode). Completed Day 2 of Linux commands (redirection, pipes, `grep`, `find`, `sort`, `uniq`, `diff`). |
 | **2026-05-25** | `Phase 02` | Algorithm Engineering | **Solved** Contains Duplicate using set. |
-| **2026-05-26** | `Phase 02` & `Phase 03` | Algorithm Engineering + Linux (partial) | Solved Contains Duplicate (NeetCode). Watched most of Linux command line video (navigation, file ops, redirection, pipes, grep, find) – remaining ~30 min on permissions/processes. SSH course not yet started. |
+| **2026-05-26** | `Phase 03` | Linux & SSH Completion | Finished remaining ~30 min of Linux command line video (permissions, processes). Completed the SSH crash course. **Phase 3 is now fully complete.** Did **not** work on NeetCode (Phase 2) today. |
 
 ---
 
@@ -67,8 +67,8 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 *For a detailed breakdown, see the main [README.md](README.md).*
 
 * **Phase 1:** Programming Foundations (Python, OOP, NumPy, Matplotlib, Git) – ✅ COMPLETE
-* **Phase 2:** Algorithm Engineering (LeetCode, NeetCode 150)
-* **Phase 3:** Dev Environment & AI Tools (Linux, SSH, Cursor) – 🔄 In Progress (remaining ~50 min)
+* **Phase 2:** Algorithm Engineering (LeetCode, NeetCode 150) – 🔄 In Progress
+* **Phase 3:** Dev Environment & AI Tools (Linux, SSH, Cursor) – ✅ COMPLETE
 * **Phase 4:** Mathematics for AI (Linear Algebra, Calculus, Stats)
 * **Phase 5 & 5B:** Data Engineering & AI Databases (SQL, Pandas, DVC, pgvector)
 * **Phase 6 & 6B:** Classical Machine Learning & System Design Primer
