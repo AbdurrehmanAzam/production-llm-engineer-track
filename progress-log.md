@@ -12,8 +12,8 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 
 ## 🎯 Current Focus & Next Up
 
-- **Current Focus:** `Phase 2` – Algorithm Engineering (NeetCode 150, 50 problems max). `Phase 3` is now **complete** (Linux command line + SSH crash course finished 2026-05-26).
-- **Next Up:** Move to `Phase 4` – Mathematics for AI (3Blue1Brown linear algebra & calculus) while continuing Phase 2.
+- **Current Focus:** `Phase 2` – Algorithm Engineering (solving curated NeetCode problems, 2–3 per day, using 15‑min timer + spaced repetition). Roadmap fully stripped and finalised for LLM Track.
+- **Next Up:** Continue Phase 2: Valid Anagram, Two Sum, then proceed through Arrays & Hashing section. Sunday spaced repetition of Contains Duplicate.
 
 **Phase 1 is fully complete.** ✅
 **Phase 3 is fully complete.** ✅ (Finished 2026-05-26)
@@ -59,7 +59,9 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 | **2026-05-23** | `Phase 01` `Phase 02` `Phase 03` | Git branching game + LeetCode + Linux Day 1 | **Completed** “Introduction Sequence” and “Ramping Up” on Learn Git Branching (Phase 1.5 finalised). **Solved** Two Sum (LeetCode, brute force). **Watched** Day 1 of Linux commands (up to `tail`). Practiced `pwd`, `ls`, `cd`, `mkdir`, `touch`, `cp`, `mv`, `rm`, `head`, `tail`. Also finalised WSL2 + VS Code + Code Runner configuration. **Phase 1 is now fully complete.** |
 | **2026-05-24** | `Phase 02` & `Phase 03` | LeetCode + Linux Day 2 | **Solved** Valid Anagram (NeetCode). Completed Day 2 of Linux commands (redirection, pipes, `grep`, `find`, `sort`, `uniq`, `diff`). |
 | **2026-05-25** | `Phase 02` | Algorithm Engineering | **Solved** Contains Duplicate using set. |
-| **2026-05-26** | `Phase 03` | Linux & SSH Completion | Finished remaining ~30 min of Linux command line video (permissions, processes). Completed the SSH crash course. **Phase 3 is now fully complete.** Did **not** work on NeetCode (Phase 2) today. |
+| **2026-05-26** | `Phase 03` | Linux & SSH Completion | Finished remaining ~30 min of Linux command line video (permissions, processes). Completed SSH crash course. **Phase 3 is now fully complete.** Did **not** work on NeetCode (Phase 2) today. |
+| **2026-05-27** | `Admin` | Roadmap Finalisation | Applied final LLM Track stripping prompt to `AI_Roadmap_2026_LLM_Track.docx`. Verified all changes (Phase 4 reduced to 2 weeks, Phase 5 to 1 week, Phase 8 to 2 weeks, Phase 9 to 1 week, Phase 9C to 1 day, added Cursor/Claude Code/Tavily/Cerebras, product thinking note). Created backup copy. |
+| **2026-05-27** | `Phase 02` | Algorithm Engineering – First Three Actions | Watched NeetCode mindset video (12 min) and Big O Notation (5 min). Solved **#217 Contains Duplicate** using hash set. Wrote first entry in `phase2_log.md`: *“Contains Duplicate · hash set detects duplicates · O(n) time · O(n) space”.* Committed to GitHub. |
 
 ---
 
@@ -69,23 +71,23 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 * **Phase 1:** Programming Foundations (Python, OOP, NumPy, Matplotlib, Git) – ✅ COMPLETE
 * **Phase 2:** Algorithm Engineering (LeetCode, NeetCode 150) – 🔄 In Progress
 * **Phase 3:** Dev Environment & AI Tools (Linux, SSH, Cursor) – ✅ COMPLETE
-* **Phase 4:** Mathematics for AI (Linear Algebra, Calculus, Stats)
-* **Phase 5 & 5B:** Data Engineering & AI Databases (SQL, Pandas, DVC, pgvector)
-* **Phase 6 & 6B:** Classical Machine Learning & System Design Primer
-* **Phase 7 & 7B:** Production Engineering & Testing (FastAPI, Docker, MLflow, CodeCarbon)
-* **Phase 8, 8B, 8C, 8.5:** Deep Learning, Computer Vision, Audio AI, open-source LLM deployment
-* **Phase 9 Series:** MLOps, Ethics, Alignment (RLHF/DPO), Feature Stores (Feast)
-* **Phase 10 & 10B:** Generative AI, RAG, LoRA fine-tuning, Diffusion, DSPy, Advanced RAG evaluation
-* **Phase 11 Series:** AI Engineering Sprint, Streaming/IaC, Kubernetes/gRPC
-* **Phase 12:** Interview Preparation, Certifications, Portfolio Website
-* **Phase 13:** Career, Networking, FAU Erlangen M.Sc. Application
+* **Phase 4:** Mathematics for AI (Linear Algebra, Calculus, Stats) – ⏳ Not started (reduced to 2 weeks)
+* **Phase 5 & 5B:** Data Engineering & AI Databases (SQL, Pandas, DVC, pgvector) – ⏳ Not started (reduced to 1 week core)
+* **Phase 6 & 6B:** Classical Machine Learning & System Design Primer – ⏳ Not started
+* **Phase 7 & 7B:** Production Engineering & Testing (FastAPI, Docker, MLflow, CodeCarbon) – ⏳ Not started
+* **Phase 8, 8B, 8C, 8.5:** Deep Learning, Computer Vision, Audio AI, open-source LLM deployment – ⏳ Not started (reduced to 2 weeks Karpathy only)
+* **Phase 9 Series:** MLOps, Ethics, Alignment (RLHF/DPO), Feature Stores (Feast) – ⏳ Not started (reduced to 1 week)
+* **Phase 10 & 10B:** Generative AI, RAG, LoRA fine-tuning, Diffusion, DSPy, Advanced RAG evaluation – ⏳ Not started
+* **Phase 11 Series:** AI Engineering Sprint, Streaming/IaC, Kubernetes/gRPC – ⏳ Not started
+* **Phase 12:** Interview Preparation, Certifications, Portfolio Website – ⏳ Not started
+* **Phase 13:** Career, Networking, FAU Erlangen M.Sc. Application – ⏳ Not started
 
 ---
 
 ## 🔄 Weekly Review Habit
 *Every Sunday, 30 minutes*
 
-- [ ] Update this log with the week's accomplishments
+- [x] Update this log with the week's accomplishments (2026-05-27)
 - [ ] Reflect: what worked? what struggled? what's next?
 - [ ] Polish any project READMEs (screenshots, diagrams)
 - [ ] Post a LinkedIn update
