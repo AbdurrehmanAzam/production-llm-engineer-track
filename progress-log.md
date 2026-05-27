@@ -12,8 +12,8 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 
 ## 🎯 Current Focus & Next Up
 
-- **Current Focus:** `Phase 2` – Algorithm Engineering (solving curated NeetCode problems, 2–3 per day, using 15‑min timer + spaced repetition). Roadmap fully stripped and finalised for LLM Track.
-- **Next Up:** Continue Phase 2: Valid Anagram, Two Sum, then proceed through Arrays & Hashing section. Sunday spaced repetition of Contains Duplicate.
+- **Current Focus:** `Phase 2` – Algorithm Engineering (solving curated NeetCode problems, 2–3 per day, using 15‑min timer + spaced repetition). Solved Contains Duplicate, Valid Anagram, Two Sum so far.
+- **Next Up:** Continue Phase 2: Group Anagrams, Top K Frequent Elements, then Two Pointers section. Sunday spaced repetition of problems solved this week.
 
 **Phase 1 is fully complete.** ✅
 **Phase 3 is fully complete.** ✅ (Finished 2026-05-26)
@@ -62,6 +62,7 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 | **2026-05-26** | `Phase 03` | Linux & SSH Completion | Finished remaining ~30 min of Linux command line video (permissions, processes). Completed SSH crash course. **Phase 3 is now fully complete.** Did **not** work on NeetCode (Phase 2) today. |
 | **2026-05-27** | `Admin` | Roadmap Finalisation | Applied final LLM Track stripping prompt to `AI_Roadmap_2026_LLM_Track.docx`. Verified all changes (Phase 4 reduced to 2 weeks, Phase 5 to 1 week, Phase 8 to 2 weeks, Phase 9 to 1 week, Phase 9C to 1 day, added Cursor/Claude Code/Tavily/Cerebras, product thinking note). Created backup copy. |
 | **2026-05-27** | `Phase 02` | Algorithm Engineering – First Three Actions | Watched NeetCode mindset video (12 min) and Big O Notation (5 min). Solved **#217 Contains Duplicate** using hash set. Wrote first entry in `phase2_log.md`: *“Contains Duplicate · hash set detects duplicates · O(n) time · O(n) space”.* Committed to GitHub. |
+| **2026-05-28** | `Phase 02` | Arrays & Hashing – Valid Anagram & Two Sum | Solved **#242 Valid Anagram** using character frequency hash map (O(n) time, O(n) space). Solved **#1 Two Sum** using hash map for complement lookup (O(n) time, O(n) space). Updated `phase2_log.md` with both entries. Continued spaced repetition preparation. |
 
 ---
 
@@ -69,7 +70,7 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 *For a detailed breakdown, see the main [README.md](README.md).*
 
 * **Phase 1:** Programming Foundations (Python, OOP, NumPy, Matplotlib, Git) – ✅ COMPLETE
-* **Phase 2:** Algorithm Engineering (LeetCode, NeetCode 150) – 🔄 In Progress
+* **Phase 2:** Algorithm Engineering (LeetCode, NeetCode 150) – 🔄 In Progress (3/35 core problems solved)
 * **Phase 3:** Dev Environment & AI Tools (Linux, SSH, Cursor) – ✅ COMPLETE
 * **Phase 4:** Mathematics for AI (Linear Algebra, Calculus, Stats) – ⏳ Not started (reduced to 2 weeks)
 * **Phase 5 & 5B:** Data Engineering & AI Databases (SQL, Pandas, DVC, pgvector) – ⏳ Not started (reduced to 1 week core)
