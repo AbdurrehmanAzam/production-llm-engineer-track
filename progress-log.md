@@ -12,7 +12,7 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 
 ## 🎯 Current Focus & Next Up
 
-- **Current Focus:** `Phase 2` – Algorithm Engineering (solving curated NeetCode problems, 2–3 per day, using 15‑min timer + spaced repetition). Solved Contains Duplicate, Valid Anagram, Two Sum so far.
+- **Current Focus:** `Phase 2` – Algorithm Engineering (solving curated NeetCode problems, 2–3 per day, using 15‑min timer + spaced repetition). Roadmap fully stripped and finalised for LLM Track.
 - **Next Up:** Continue Phase 2: Group Anagrams, Top K Frequent Elements, then Two Pointers section. Sunday spaced repetition of problems solved this week.
 
 **Phase 1 is fully complete.** ✅
@@ -63,6 +63,8 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 | **2026-05-27** | `Admin` | Roadmap Finalisation | Applied final LLM Track stripping prompt to `AI_Roadmap_2026_LLM_Track.docx`. Verified all changes (Phase 4 reduced to 2 weeks, Phase 5 to 1 week, Phase 8 to 2 weeks, Phase 9 to 1 week, Phase 9C to 1 day, added Cursor/Claude Code/Tavily/Cerebras, product thinking note). Created backup copy. |
 | **2026-05-27** | `Phase 02` | Algorithm Engineering – First Three Actions | Watched NeetCode mindset video (12 min) and Big O Notation (5 min). Solved **#217 Contains Duplicate** using hash set. Wrote first entry in `phase2_log.md`: *“Contains Duplicate · hash set detects duplicates · O(n) time · O(n) space”.* Committed to GitHub. |
 | **2026-05-28** | `Phase 02` | Arrays & Hashing – Valid Anagram & Two Sum | Solved **#242 Valid Anagram** using character frequency hash map (O(n) time, O(n) space). Solved **#1 Two Sum** using hash map for complement lookup (O(n) time, O(n) space). Updated `phase2_log.md` with both entries. Continued spaced repetition preparation. |
+| **2026-05-29** | `Break` | Eid ul‑Adha (2nd day) | **Planned break.** No study activities. Celebrated Eid with family.|
+| **2026-05-29** | `Break` | Eid ul‑Adha (2nd day) | **Planned break.** No study activities. Celebrated Eid with family. Resuming normal schedule tomorrow. |
 
 ---
 
@@ -79,7 +81,7 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 * **Phase 8, 8B, 8C, 8.5:** Deep Learning, Computer Vision, Audio AI, open-source LLM deployment – ⏳ Not started (reduced to 2 weeks Karpathy only)
 * **Phase 9 Series:** MLOps, Ethics, Alignment (RLHF/DPO), Feature Stores (Feast) – ⏳ Not started (reduced to 1 week)
 * **Phase 10 & 10B:** Generative AI, RAG, LoRA fine-tuning, Diffusion, DSPy, Advanced RAG evaluation – ⏳ Not started
-* **Phase 11 Series:** AI Engineering Sprint, Streaming/IaC, Kubernetes/gRPC – ⏳ Not started
+* **Phase 11 Series:** AI Engineering Sprint, Streaming, IaC, Kubernetes/gRPC – ⏳ Not started
 * **Phase 12:** Interview Preparation, Certifications, Portfolio Website – ⏳ Not started
 * **Phase 13:** Career, Networking, FAU Erlangen M.Sc. Application – ⏳ Not started
 
