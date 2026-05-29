@@ -12,8 +12,8 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 
 ## 🎯 Current Focus & Next Up
 
-- **Current Focus:** `Phase 2` – Algorithm Engineering (solving curated NeetCode problems, 2–3 per day, using 15‑min timer + spaced repetition). Roadmap fully stripped and finalised for LLM Track.
-- **Next Up:** Continue Phase 2: Group Anagrams, Top K Frequent Elements, then Two Pointers section. Sunday spaced repetition of problems solved this week.
+- **Current Focus:** `Phase 2` – Algorithm Engineering (solving curated NeetCode problems, 2–3 per day, using 15‑min timer + spaced repetition). Roadmap fully stripped and finalised for LLM Track. Currently evaluating additions (Prompt Engineering, Document Parsing, Security, Agent Memory) for final integration.
+- **Next Up:** Resume Phase 2 tomorrow: Group Anagrams, Top K Frequent Elements. Sunday spaced repetition of problems solved this week.
 
 **Phase 1 is fully complete.** ✅
 **Phase 3 is fully complete.** ✅ (Finished 2026-05-26)
@@ -63,8 +63,8 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 | **2026-05-27** | `Admin` | Roadmap Finalisation | Applied final LLM Track stripping prompt to `AI_Roadmap_2026_LLM_Track.docx`. Verified all changes (Phase 4 reduced to 2 weeks, Phase 5 to 1 week, Phase 8 to 2 weeks, Phase 9 to 1 week, Phase 9C to 1 day, added Cursor/Claude Code/Tavily/Cerebras, product thinking note). Created backup copy. |
 | **2026-05-27** | `Phase 02` | Algorithm Engineering – First Three Actions | Watched NeetCode mindset video (12 min) and Big O Notation (5 min). Solved **#217 Contains Duplicate** using hash set. Wrote first entry in `phase2_log.md`: *“Contains Duplicate · hash set detects duplicates · O(n) time · O(n) space”.* Committed to GitHub. |
 | **2026-05-28** | `Phase 02` | Arrays & Hashing – Valid Anagram & Two Sum | Solved **#242 Valid Anagram** using character frequency hash map (O(n) time, O(n) space). Solved **#1 Two Sum** using hash map for complement lookup (O(n) time, O(n) space). Updated `phase2_log.md` with both entries. Continued spaced repetition preparation. |
-| **2026-05-29** | `Break` | Eid ul‑Adha (2nd day) | **Planned break.** No study activities. Celebrated Eid with family.|
-| **2026-05-29** | `Break` | Eid ul‑Adha (2nd day) | **Planned break.** No study activities. Celebrated Eid with family. Resuming normal schedule tomorrow. |
+| **2026-05-29** | `Break` | Eid ul‑Adha (2nd day) | **Planned break.** No study activities. Celebrated Eid with family. Resuming normal schedule after Eid. |
+| **2026-05-30** | `Admin` | Roadmap Design & Refinement | 3rd day of Eid – still on break from coding. Instead, designed the **ultimate roadmap** for LLM Application Engineer track. Evaluated the 8‑addition delta document; decided which modules to integrate (Prompt Engineering as Phase 3C, Document Parsing as Phase 5B, Security and Agent Memory into Phases 7 & 9). Finalised the execution plan for the coming weeks. Resuming study tomorrow (2026-05-31). |
 
 ---
 
@@ -90,7 +90,7 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 ## 🔄 Weekly Review Habit
 *Every Sunday, 30 minutes*
 
-- [x] Update this log with the week's accomplishments (2026-05-27)
+- [ ] Update this log with the week's accomplishments
 - [ ] Reflect: what worked? what struggled? what's next?
 - [ ] Polish any project READMEs (screenshots, diagrams)
 - [ ] Post a LinkedIn update
