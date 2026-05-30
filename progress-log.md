@@ -12,10 +12,12 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 
 ## 🎯 Current Focus & Next Up
 
-- **Current Focus:** `Phase 2` – Algorithm Engineering. Moving through NeetCode with a strict emphasis on O(n) time and O(1) space optimizations. Repository structurally aligned with the minimal 14-phase roadmap.
-- **Next Up:** Phase 2: Valid Palindrome, Group Anagrams, and Top K Frequent Elements. Sunday spaced repetition.
+- **Current Focus:** `Phase 1` – Completing the newly added sections: **1.6 Pydantic V2** (3 days) and **1.7 AsyncIO** (1 week). These are mandatory in the new roadmap and were not covered before.
+- **Next Up:** After finishing Phase 1 (Pydantic + AsyncIO), move to **Phase 3C – Prompt Engineering Patterns** (1 week). Phase 2 (NeetCode) continues daily in parallel.
 
-**Phase 01 & 03 are structurally complete.** ✅
+**Phase 01 is 🔄 in progress** (Pydantic + AsyncIO remaining).
+**Phase 03 & 3B (MCP) are ✅ complete** (Linux, SSH, MCP server built).
+**Phase 2 is 🔄 in progress** (3 problems solved: Contains Duplicate, Valid Anagram, Two Sum).
 
 ---
 
@@ -55,36 +57,38 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 | **2026-05-20** | `Phase 01` | uv Package Manager (Phase 1.4) | Read official uv documentation (Getting Started, First steps, Working on projects) and “uv in 5 Minutes” blog post. Learned commands: `uv init`, `uv add`, `uv run`, `uv sync`. Understood how uv replaces pip/venv for Python 3.12 projects. |
 | **2026-05-21** | `Phase 01` | Git & GitHub (Phase 1.5 – partial) | Watched first 30 minutes of “Git and GitHub for Beginners” (Gwen Faraday). Learned about `git init`, `git add`, `git commit`, `git log`, and basic branching concepts. |
 | **2026-05-22** | `Phase 01` | Git & GitHub (Phase 1.5 – partial) | Finished remaining 30 minutes of the Git video. Practiced `git branch`, `git merge`, and remote sync. Branching game still pending. |
-| **2026-05-23** | `Phase 01` `Phase 02` `Phase 03` | Git branching game + LeetCode + Linux Day 1 | **Completed** “Introduction Sequence” and “Ramping Up” on Learn Git Branching (Phase 1.5 finalised). **Solved** Two Sum (LeetCode, brute force). **Watched** Day 1 of Linux commands (up to `tail`). Practiced `pwd`, `ls`, `cd`, `mkdir`, `touch`, `cp`, `mv`, `rm`, `head`, `tail`. Also finalised WSL2 + VS Code + Code Runner configuration. **Phase 1 is now fully complete.** |
+| **2026-05-23** | `Phase 01` `Phase 02` `Phase 03` | Git branching game + LeetCode + Linux Day 1 | **Completed** “Introduction Sequence” and “Ramping Up” on Learn Git Branching (Phase 1.5 finalised). **Solved** Two Sum (LeetCode, brute force). **Watched** Day 1 of Linux commands (up to `tail`). Practiced `pwd`, `ls`, `cd`, `mkdir`, `touch`, `cp`, `mv`, `rm`, `head`, `tail`. Also finalised WSL2 + VS Code + Code Runner configuration. **Phase 1 sections 1.1–1.5 complete.** |
 | **2026-05-24** | `Phase 02` & `Phase 03` | LeetCode + Linux Day 2 | **Solved** Valid Anagram (NeetCode). Completed Day 2 of Linux commands (redirection, pipes, `grep`, `find`, `sort`, `uniq`, `diff`). |
 | **2026-05-25** | `Phase 02` | Algorithm Engineering | **Solved** Contains Duplicate using set. |
-| **2026-05-26** | `Phase 03` | Linux & SSH Completion | Finished remaining ~30 min of Linux command line video (permissions, processes). Completed SSH crash course. **Phase 3 is now fully complete.** Did **not** work on NeetCode (Phase 2) today. |
+| **2026-05-26** | `Phase 03` | Linux & SSH Completion | Finished remaining ~30 min of Linux command line video (permissions, processes). Completed SSH crash course. **Phase 3 (core) is now fully complete.** Did **not** work on NeetCode (Phase 2) today. |
 | **2026-05-27** | `Admin` | Roadmap Finalisation | Applied final LLM Track stripping prompt to `AI_Roadmap_2026_LLM_Track.docx`. Verified all changes. Created backup copy. |
 | **2026-05-27** | `Phase 02` | Algorithm Engineering – First Three Actions | Watched NeetCode mindset video (12 min) and Big O Notation (5 min). Solved **#217 Contains Duplicate** using hash set. Wrote first entry in `phase2_log.md`. Committed to GitHub. |
 | **2026-05-28** | `Phase 02` | Arrays & Hashing – Valid Anagram & Two Sum | Solved **#242 Valid Anagram** using character frequency hash map (O(n) time, O(n) space). Solved **#1 Two Sum** using hash map for complement lookup (O(n) time, O(n) space). Updated `phase2_log.md` with both entries. Continued spaced repetition preparation. |
 | **2026-05-29** | `Break` | Eid ul‑Adha (2nd day) | **Planned break.** No study activities. Celebrated Eid with family. Resuming normal schedule after Eid. |
 | **2026-05-30** | `Admin` | Roadmap Design & Refinement | 3rd day of Eid – still on break from coding. Instead, designed the **ultimate roadmap** for LLM Application Engineer track. Finalised the execution plan for the coming weeks. |
 | **2026-05-31** | `Admin` | Repo Restructure | Executed full structural migration of repository to the 14-phase LLM Engineering track. |
+| **2026-06-01** | `Phase 01` | Pydantic V2 (Section 1.6) | Started reading Pydantic V2 official documentation. Covered BaseModel, `@field_validator`, `@model_validator`, JSON schema export. |
+| **2026-06-01** | `Phase 01` | AsyncIO (Section 1.7) | Began Real Python AsyncIO guide – focused on tasks, `asyncio.gather()`, async generators. |
 
 ---
 
 ## 📋 Phase Quick-Reference
 *For a detailed breakdown, see the main [README.md](README.md).*
 
-* **Phase 01:** Foundations (Python, uv, AsyncIO, Pydantic, Git)
-* **Phase 02:** Algorithms (NeetCode logs only)
-* **Phase 03:** Dev & MCP (Linux, SSH, MCP server)
-* **Phase 03C:** Prompt Engineering (YAML templates, meta‑prompting)
-* **Phase 04:** Math (cosine similarity NumPy script)
-* **Phase 05:** Data Engineering (SQL, Pandas, HF Hub pipeline)
-* **Phase 05B:** Parsing & Chunking (Ingestion module, Unstructured, splitters)
-* **Phase 06:** Hybrid RAG (Qdrant, BM25, RRF, FlashRank, Redis cache)
-* **Phase 07:** FastAPI & Evals (FastAPI, DeepEval, GitHub Actions, security)
-* **Phase 08:** Karpathy & Serving (GPT from scratch, tokenizer, vLLM bench)
-* **Phase 09:** LangGraph & Memory (LangGraph, Langfuse, 3 memory types)
-* **Phase 10:** Capstone (Enterprise Answer Engine final project)
-* **Phase 11:** Interview Prep (5 system design scripts - optional)
-* **Phase 12:** Portfolio (Astro site deployment)
+* **Phase 01:** Foundations (Python, uv, AsyncIO, Pydantic, Git) – 🔄 **In progress** (Pydantic & AsyncIO remaining)
+* **Phase 02:** Algorithms (NeetCode logs only) – 🔄 In progress (3 problems solved)
+* **Phase 03:** Dev & MCP (Linux, SSH, MCP server) – ✅ Complete
+* **Phase 03C:** Prompt Engineering (YAML templates, meta‑prompting) – ⏳ Not started
+* **Phase 04:** Math (cosine similarity NumPy script) – ⏳ Not started
+* **Phase 05:** Data Engineering (SQL, Pandas, HF Hub pipeline) – ⏳ Not started
+* **Phase 05B:** Parsing & Chunking (Ingestion module, Unstructured, splitters) – ⏳ Not started
+* **Phase 06:** Hybrid RAG (Qdrant, BM25, RRF, FlashRank, Redis cache) – ⏳ Not started
+* **Phase 07:** FastAPI & Evals (FastAPI, DeepEval, GitHub Actions, security) – ⏳ Not started
+* **Phase 08:** Karpathy & Serving (GPT from scratch, tokenizer, vLLM bench) – ⏳ Not started
+* **Phase 09:** LangGraph & Memory (LangGraph, Langfuse, 3 memory types) – ⏳ Not started
+* **Phase 10:** Capstone (Enterprise Answer Engine final project) – ⏳ Not started
+* **Phase 11:** Interview Prep (5 system design scripts - optional) – ⏳ Not started
+* **Phase 12:** Portfolio (Astro site deployment) – ⏳ Not started
 
 ---
 
