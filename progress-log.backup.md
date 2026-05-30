@@ -2,7 +2,7 @@
 
 > "Build things. Ship things. Understand the math behind things."
 
-This log is the transparent audit trail for my transition into AI Engineering (36 months). It tracks active coding days, completed modules, and shipped deliverables across the 14-phase LLM Application Engineer track.
+This log is the transparent audit trail for my transition into AI Engineering (36 months), following Edition 10.0 of the roadmap. It tracks active coding days, completed modules, and shipped deliverables across all 13 phases.
 
 **Track:** LLM Application Engineer (Track A)
 **Start Date:** 1 May 2026
@@ -12,10 +12,11 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 
 ## 🎯 Current Focus & Next Up
 
-- **Current Focus:** `Phase 2` – Algorithm Engineering. Moving through NeetCode with a strict emphasis on O(n) time and O(1) space optimizations. Repository structurally aligned with the minimal 14-phase roadmap.
-- **Next Up:** Phase 2: Valid Palindrome, Group Anagrams, and Top K Frequent Elements. Sunday spaced repetition.
+- **Current Focus:** `Phase 2` – Algorithm Engineering (solving curated NeetCode problems, 2–3 per day, using 15‑min timer + spaced repetition). Roadmap fully stripped and finalised for LLM Track. Currently evaluating additions (Prompt Engineering, Document Parsing, Security, Agent Memory) for final integration.
+- **Next Up:** Resume Phase 2 tomorrow: Group Anagrams, Top K Frequent Elements. Sunday spaced repetition of problems solved this week.
 
-**Phase 01 & 03 are structurally complete.** ✅
+**Phase 1 is fully complete.** ✅
+**Phase 3 is fully complete.** ✅ (Finished 2026-05-26)
 
 ---
 
@@ -23,12 +24,12 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 
 | Date | Area | Topic / Module | Key Achievement / Deliverable |
 | :--- | :--- | :--- | :--- |
-| **2026-05-01** | `Admin` | Documentation & Git | Learned Divio's documentation framework. Set up SSH key. Created `Ai-engineering-roadmap` repository with folder structure, .gitignore, README. First commit. |
+| **2026-05-01** | `Admin` | Documentation & Git | Learned Divio's documentation framework. Set up SSH key. Created [`Ai-engineering-roadmap`](https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap) repository with folder structure, .gitignore, README. First commit. |
 | **2026-05-01** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 1) | Watched Lecture 1 (variables, data types, operators). Wrote `hello_world.py` – first Python program. Fixed double extension. Learned `git add`, `git commit`, `git push`. |
 | **2026-05-02** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 1 & 2) | Installed Python 3.11 via micromamba, configured VS Code. Fixed C++‑style `int a = 1`. Created `add_two_numbers.py` and `taking_input_from_user.py`. Practiced string concatenation vs f‑strings. |
 | **2026-05-02** | `Side Quest: DB Course` | Project Planning | Designed AI Answer Engine database schema (search_queries, web_pages, cached_answers, user_feedback). Showed teacher the vision. |
 | **2026-05-03** | `Admin` | Portfolio Infrastructure | Added MIT LICENSE, polished README (environment setup, progress tracking, privacy). Connected GitHub to LinkedIn. |
-| **2026-05-03** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 2) | Completed strings & conditionals. Built 8 programs. |
+| **2026-05-03** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 2) | Completed strings & conditionals. Built 8 programs. [View all files](https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap/tree/main/phase-1-python/1.1-fundamentals). |
 | **2026-05-03** | `Admin` | Git Workflow | Resolved first `git push` rejection with `git pull`. Cleaned repo (removed `.gitkeep`). Created this progress log. |
 | **2026-05-04** | `Phase 01` | Python Fundamentals (CampusX – 100 Days of Python, Days 1‑8) | Switched to CampusX. Covered type conversion, literals, operators, if‑else, nested if, indentation, while loop, guessing game. Also practiced lists (`making_array.py`) and built a login program (`making_login_program.py`). |
 | **2026-05-05** | `Phase 01` | Python Fundamentals (CampusX – Days 8‑9, loops & range) | Built 4 programs independently: `guess_game.py` (random number + attempt counter), `Table_print_using_user_input.py` (multiplication table using while loop), `experimentation_on_range_func.py`, `Indentation_example.py`. |
@@ -59,32 +60,30 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 | **2026-05-24** | `Phase 02` & `Phase 03` | LeetCode + Linux Day 2 | **Solved** Valid Anagram (NeetCode). Completed Day 2 of Linux commands (redirection, pipes, `grep`, `find`, `sort`, `uniq`, `diff`). |
 | **2026-05-25** | `Phase 02` | Algorithm Engineering | **Solved** Contains Duplicate using set. |
 | **2026-05-26** | `Phase 03` | Linux & SSH Completion | Finished remaining ~30 min of Linux command line video (permissions, processes). Completed SSH crash course. **Phase 3 is now fully complete.** Did **not** work on NeetCode (Phase 2) today. |
-| **2026-05-27** | `Admin` | Roadmap Finalisation | Applied final LLM Track stripping prompt to `AI_Roadmap_2026_LLM_Track.docx`. Verified all changes. Created backup copy. |
-| **2026-05-27** | `Phase 02` | Algorithm Engineering – First Three Actions | Watched NeetCode mindset video (12 min) and Big O Notation (5 min). Solved **#217 Contains Duplicate** using hash set. Wrote first entry in `phase2_log.md`. Committed to GitHub. |
+| **2026-05-27** | `Admin` | Roadmap Finalisation | Applied final LLM Track stripping prompt to `AI_Roadmap_2026_LLM_Track.docx`. Verified all changes (Phase 4 reduced to 2 weeks, Phase 5 to 1 week, Phase 8 to 2 weeks, Phase 9 to 1 week, Phase 9C to 1 day, added Cursor/Claude Code/Tavily/Cerebras, product thinking note). Created backup copy. |
+| **2026-05-27** | `Phase 02` | Algorithm Engineering – First Three Actions | Watched NeetCode mindset video (12 min) and Big O Notation (5 min). Solved **#217 Contains Duplicate** using hash set. Wrote first entry in `phase2_log.md`: *“Contains Duplicate · hash set detects duplicates · O(n) time · O(n) space”.* Committed to GitHub. |
 | **2026-05-28** | `Phase 02` | Arrays & Hashing – Valid Anagram & Two Sum | Solved **#242 Valid Anagram** using character frequency hash map (O(n) time, O(n) space). Solved **#1 Two Sum** using hash map for complement lookup (O(n) time, O(n) space). Updated `phase2_log.md` with both entries. Continued spaced repetition preparation. |
 | **2026-05-29** | `Break` | Eid ul‑Adha (2nd day) | **Planned break.** No study activities. Celebrated Eid with family. Resuming normal schedule after Eid. |
-| **2026-05-30** | `Admin` | Roadmap Design & Refinement | 3rd day of Eid – still on break from coding. Instead, designed the **ultimate roadmap** for LLM Application Engineer track. Finalised the execution plan for the coming weeks. |
-| **2026-05-31** | `Admin` | Repo Restructure | Executed full structural migration of repository to the 14-phase LLM Engineering track. |
+| **2026-05-30** | `Admin` | Roadmap Design & Refinement | 3rd day of Eid – still on break from coding. Instead, designed the **ultimate roadmap** for LLM Application Engineer track. Evaluated the 8‑addition delta document; decided which modules to integrate (Prompt Engineering as Phase 3C, Document Parsing as Phase 5B, Security and Agent Memory into Phases 7 & 9). Finalised the execution plan for the coming weeks. Resuming study tomorrow (2026-05-31). |
 
 ---
 
 ## 📋 Phase Quick-Reference
 *For a detailed breakdown, see the main [README.md](README.md).*
 
-* **Phase 01:** Foundations (Python, uv, AsyncIO, Pydantic, Git)
-* **Phase 02:** Algorithms (NeetCode logs only)
-* **Phase 03:** Dev & MCP (Linux, SSH, MCP server)
-* **Phase 03C:** Prompt Engineering (YAML templates, meta‑prompting)
-* **Phase 04:** Math (cosine similarity NumPy script)
-* **Phase 05:** Data Engineering (SQL, Pandas, HF Hub pipeline)
-* **Phase 05B:** Parsing & Chunking (Ingestion module, Unstructured, splitters)
-* **Phase 06:** Hybrid RAG (Qdrant, BM25, RRF, FlashRank, Redis cache)
-* **Phase 07:** FastAPI & Evals (FastAPI, DeepEval, GitHub Actions, security)
-* **Phase 08:** Karpathy & Serving (GPT from scratch, tokenizer, vLLM bench)
-* **Phase 09:** LangGraph & Memory (LangGraph, Langfuse, 3 memory types)
-* **Phase 10:** Capstone (Enterprise Answer Engine final project)
-* **Phase 11:** Interview Prep (5 system design scripts - optional)
-* **Phase 12:** Portfolio (Astro site deployment)
+* **Phase 1:** Programming Foundations (Python, OOP, NumPy, Matplotlib, Git) – ✅ COMPLETE
+* **Phase 2:** Algorithm Engineering (LeetCode, NeetCode 150) – 🔄 In Progress (3/35 core problems solved)
+* **Phase 3:** Dev Environment & AI Tools (Linux, SSH, Cursor) – ✅ COMPLETE
+* **Phase 4:** Mathematics for AI (Linear Algebra, Calculus, Stats) – ⏳ Not started (reduced to 2 weeks)
+* **Phase 5 & 5B:** Data Engineering & AI Databases (SQL, Pandas, DVC, pgvector) – ⏳ Not started (reduced to 1 week core)
+* **Phase 6 & 6B:** Classical Machine Learning & System Design Primer – ⏳ Not started
+* **Phase 7 & 7B:** Production Engineering & Testing (FastAPI, Docker, MLflow, CodeCarbon) – ⏳ Not started
+* **Phase 8, 8B, 8C, 8.5:** Deep Learning, Computer Vision, Audio AI, open-source LLM deployment – ⏳ Not started (reduced to 2 weeks Karpathy only)
+* **Phase 9 Series:** MLOps, Ethics, Alignment (RLHF/DPO), Feature Stores (Feast) – ⏳ Not started (reduced to 1 week)
+* **Phase 10 & 10B:** Generative AI, RAG, LoRA fine-tuning, Diffusion, DSPy, Advanced RAG evaluation – ⏳ Not started
+* **Phase 11 Series:** AI Engineering Sprint, Streaming, IaC, Kubernetes/gRPC – ⏳ Not started
+* **Phase 12:** Interview Preparation, Certifications, Portfolio Website – ⏳ Not started
+* **Phase 13:** Career, Networking, FAU Erlangen M.Sc. Application – ⏳ Not started
 
 ---
 
