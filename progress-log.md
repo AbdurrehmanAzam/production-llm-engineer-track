@@ -12,12 +12,12 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 
 ## 🎯 Current Focus & Next Up
 
-- **Current Focus:** `Phase 1` – Completing the newly added sections: **1.6 Pydantic V2** (3 days) and **1.7 AsyncIO** (1 week). These are mandatory in the new roadmap and were not covered before.
-- **Next Up:** After finishing Phase 1 (Pydantic + AsyncIO), move to **Phase 3C – Prompt Engineering Patterns** (1 week). Phase 2 (NeetCode) continues daily in parallel.
+- **Current Focus:** `Phase 1` – Completing the newly added sections: **1.6 Pydantic V2** (3 days) and **1.7 AsyncIO** (1 week). Today (2026-05-31) I restructured the entire repository to match the 14‑phase roadmap, installed Pydantic 2.13.4, and created a basic Pydantic model script. I also watched the first half of the CampusX Pydantic V2 crash course.
+- **Next Up:** Tomorrow (2026-06-01): Watch the second half of the Pydantic video, practice writing custom validators. Day 3: read the official Pydantic V2 documentation. After finishing Pydantic, start AsyncIO (1.7), then Phase 3C (Prompt Engineering).
 
-**Phase 01 is 🔄 in progress** (Pydantic + AsyncIO remaining).
+**Phase 01 is 🔄 in progress** (Pydantic V2 1/3 done, AsyncIO not started).
 **Phase 03 & 3B (MCP) are ✅ complete** (Linux, SSH, MCP server built).
-**Phase 2 is 🔄 in progress** (3 problems solved: Contains Duplicate, Valid Anagram, Two Sum).
+**Phase 2 is ⏸ paused** – will resume daily NeetCode after Phase 1 is fully complete.
 
 ---
 
@@ -66,17 +66,14 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 | **2026-05-28** | `Phase 02` | Arrays & Hashing – Valid Anagram & Two Sum | Solved **#242 Valid Anagram** using character frequency hash map (O(n) time, O(n) space). Solved **#1 Two Sum** using hash map for complement lookup (O(n) time, O(n) space). Updated `phase2_log.md` with both entries. Continued spaced repetition preparation. |
 | **2026-05-29** | `Break` | Eid ul‑Adha (2nd day) | **Planned break.** No study activities. Celebrated Eid with family. Resuming normal schedule after Eid. |
 | **2026-05-30** | `Admin` | Roadmap Design & Refinement | 3rd day of Eid – still on break from coding. Instead, designed the **ultimate roadmap** for LLM Application Engineer track. Finalised the execution plan for the coming weeks. |
-| **2026-05-31** | `Admin` | Repo Restructure | Executed full structural migration of repository to the 14-phase LLM Engineering track. |
-| **2026-06-01** | `Phase 01` | Pydantic V2 (Section 1.6) | Started reading Pydantic V2 official documentation. Covered BaseModel, `@field_validator`, `@model_validator`, JSON schema export. |
-| **2026-06-01** | `Phase 01` | AsyncIO (Section 1.7) | Began Real Python AsyncIO guide – focused on tasks, `asyncio.gather()`, async generators. |
+| **2026-05-31** | `Admin` | Repository Restructure | Executed full structural migration of repository to the 14-phase LLM Engineering track. Created detailed sub‑folders for all phases. Installed Pydantic V2 (`uv add pydantic`), verified version 2.13.4. Watched first half of CampusX Pydantic V2 crash course. Created `pydantic_intro.py` (Student model). Pushed all changes to GitHub. **Phase 2 (NeetCode) paused until Phase 1 is complete.** |
 
 ---
 
 ## 📋 Phase Quick-Reference
-*For a detailed breakdown, see the main [README.md](README.md).*
 
-* **Phase 01:** Foundations (Python, uv, AsyncIO, Pydantic, Git) – 🔄 **In progress** (Pydantic & AsyncIO remaining)
-* **Phase 02:** Algorithms (NeetCode logs only) – 🔄 In progress (3 problems solved)
+* **Phase 01:** Foundations (Python, uv, AsyncIO, Pydantic, Git) – 🔄 **In progress** (Pydantic V2 1/3 done, AsyncIO not started)
+* **Phase 02:** Algorithms (NeetCode logs only) – ⏸ **Paused** (3 problems solved; will resume after Phase 1)
 * **Phase 03:** Dev & MCP (Linux, SSH, MCP server) – ✅ Complete
 * **Phase 03C:** Prompt Engineering (YAML templates, meta‑prompting) – ⏳ Not started
 * **Phase 04:** Math (cosine similarity NumPy script) – ⏳ Not started
