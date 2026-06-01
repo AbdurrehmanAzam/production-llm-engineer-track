@@ -97,3 +97,4 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 - [ ] Polish any project READMEs (screenshots, diagrams)
 - [ ] Post a LinkedIn update
 - [ ] Review ethical reflection log (15 min)
+| **2026-06-01** | `Break` | Exam preparation | No roadmap study – focusing on university exams. |
