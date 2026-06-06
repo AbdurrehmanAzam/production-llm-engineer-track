@@ -12,10 +12,10 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 
 ## 🎯 Current Focus & Next Up
 
-- **Current Focus:** `Phase 1` – Completing the newly added sections: **1.6 Pydantic V2** (3 days) and **1.7 AsyncIO** (1 week). Today (2026-05-31) I restructured the entire repository to match the 14‑phase roadmap, installed Pydantic 2.13.4, and created a basic Pydantic model script. I also watched the first half of the CampusX Pydantic V2 crash course.
-- **Next Up:** Tomorrow (2026-06-01): Watch the second half of the Pydantic video, practice writing custom validators. Day 3: read the official Pydantic V2 documentation. After finishing Pydantic, start AsyncIO (1.7), then Phase 3C (Prompt Engineering).
+- **Current Focus:** `Exam break` – university exams from 8th June. Paused all roadmap study.
+- **Next Up:** After exams (approx. mid‑June), resume Phase 1: finish Pydantic V2 (second half of video), then AsyncIO, then Phase 3C.
 
-**Phase 01 is 🔄 in progress** (Pydantic V2 1/3 done, AsyncIO not started).
+**Phase 01 is ⏸ paused** (Pydantic V2 1/3 done, AsyncIO not started).
 **Phase 03 & 3B (MCP) are ✅ complete** (Linux, SSH, MCP server built).
 **Phase 2 is ⏸ paused** – will resume daily NeetCode after Phase 1 is fully complete.
 
@@ -67,13 +67,19 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 | **2026-05-29** | `Break` | Eid ul‑Adha (2nd day) | **Planned break.** No study activities. Celebrated Eid with family. Resuming normal schedule after Eid. |
 | **2026-05-30** | `Admin` | Roadmap Design & Refinement | 3rd day of Eid – still on break from coding. Instead, designed the **ultimate roadmap** for LLM Application Engineer track. Finalised the execution plan for the coming weeks. |
 | **2026-05-31** | `Admin` | Repository Restructure | Executed full structural migration of repository to the 14-phase LLM Engineering track. Created detailed sub‑folders for all phases. Installed Pydantic V2 (`uv add pydantic`), verified version 2.13.4. Watched first half of CampusX Pydantic V2 crash course. Created `pydantic_intro.py` (Student model). Pushed all changes to GitHub. **Phase 2 (NeetCode) paused until Phase 1 is complete.** |
+| **2026-06-01** | `Break` | Exam preparation | No roadmap study – focusing on university exams. |
+| **2026-06-02** | `Break` | Exam preparation | No roadmap study – focusing on university exams. |
+| **2026-06-03** | `Break` | Exam preparation | No roadmap study – focusing on university exams. |
+| **2026-06-04** | `Break` | Exam preparation | No roadmap study – focusing on university exams. |
+| **2026-06-05** | `Break` | Exam preparation | No roadmap study – focusing on university exams. |
+| **2026-06-06** | `Break` | Exam preparation | No roadmap study – focusing on university exams. |
 
 ---
 
 ## 📋 Phase Quick-Reference
 
-* **Phase 01:** Foundations (Python, uv, AsyncIO, Pydantic, Git) – 🔄 **In progress** (Pydantic V2 1/3 done, AsyncIO not started)
-* **Phase 02:** Algorithms (NeetCode logs only) – ⏸ **Paused** (3 problems solved; will resume after Phase 1)
+* **Phase 01:** Foundations (Python, uv, AsyncIO, Pydantic, Git) – ⏸ **Paused** (Pydantic V2 1/3 done, AsyncIO not started)
+* **Phase 02:** Algorithms (NeetCode logs only) – ⏸ **Paused** (3 problems solved)
 * **Phase 03:** Dev & MCP (Linux, SSH, MCP server) – ✅ Complete
 * **Phase 03C:** Prompt Engineering (YAML templates, meta‑prompting) – ⏳ Not started
 * **Phase 04:** Math (cosine similarity NumPy script) – ⏳ Not started
@@ -97,4 +103,3 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 - [ ] Polish any project READMEs (screenshots, diagrams)
 - [ ] Post a LinkedIn update
 - [ ] Review ethical reflection log (15 min)
-| **2026-06-01** | `Break` | Exam preparation | No roadmap study – focusing on university exams. |
