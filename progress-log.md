@@ -12,8 +12,8 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 
 ## 🎯 Current Focus & Next Up
 
-- **Current Focus:** `Post-exam break` – exams finished on 8th June. Taking a few days to rest before resuming roadmap study.
-- **Next Up:** Resume Phase 1: finish Pydantic V2 (second half of video + custom validators), then AsyncIO, then Phase 3C (Prompt Engineering).
+- **Current Focus:** `Resuming roadmap` – Post‑exam break is over. Tomorrow (2026-06-21) I will watch the **second half** of the CampusX Pydantic V2 crash course.
+- **Next Up:** Finish Pydantic V2 (Day 2 of 3), then AsyncIO (1.7), then Phase 3C (Prompt Engineering).
 
 **Phase 01 is ⏸ paused** (Pydantic V2 1/3 done, AsyncIO not started).
 **Phase 03 & 3B (MCP) are ✅ complete** (Linux, SSH, MCP server built).
@@ -76,6 +76,7 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 | **2026-06-08** | `Break` | Exam preparation | No roadmap study – focusing on university exams (exam day). |
 | **2026-06-09** | `Admin` | Exam break complete | Exams finished. Reviewed roadmap, planning to resume Phase 1 study tomorrow. |
 | **2026-06-11** | `Break` | Post-exam rest | No roadmap study – taking a few days to rest after exams. |
+| **2026-06-20** | `Admin` | Break officially ended | Post-exam break complete. Confirmed resume date: 2026-06-21. Will watch second half of Pydantic V2 video tomorrow. |
 
 ---
 
