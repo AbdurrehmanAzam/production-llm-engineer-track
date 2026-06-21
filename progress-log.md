@@ -12,10 +12,10 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 
 ## 🎯 Current Focus & Next Up
 
-- **Current Focus:** `Resuming roadmap` – Post‑exam break is over. Tomorrow (2026-06-21) I will watch the **second half** of the CampusX Pydantic V2 crash course.
-- **Next Up:** Finish Pydantic V2 (Day 2 of 3), then AsyncIO (1.7), then Phase 3C (Prompt Engineering).
+- **Current Focus:** `Phase 1 – Pydantic V2 (Section 1.6)` – Completed the CampusX Pydantic V2 crash course. Created 5 Pydantic scripts covering `@field_validator`, `@model_validator`, nested models, `@computed_field`, and serialization.
+- **Next Up:** Day 3 of Pydantic V2 – read the official Pydantic V2 documentation (targeted reading) and deepen understanding of validators and serialization. After that, start AsyncIO (1.7).
 
-**Phase 01 is ⏸ paused** (Pydantic V2 1/3 done, AsyncIO not started).
+**Phase 01 is 🔄 in progress** (Pydantic V2 2/3 done, AsyncIO not started).
 **Phase 03 & 3B (MCP) are ✅ complete** (Linux, SSH, MCP server built).
 **Phase 2 is ⏸ paused** – will resume daily NeetCode after Phase 1 is fully complete.
 
@@ -76,13 +76,14 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 | **2026-06-08** | `Break` | Exam preparation | No roadmap study – focusing on university exams (exam day). |
 | **2026-06-09** | `Admin` | Exam break complete | Exams finished. Reviewed roadmap, planning to resume Phase 1 study tomorrow. |
 | **2026-06-11** | `Break` | Post-exam rest | No roadmap study – taking a few days to rest after exams. |
-| **2026-06-20** | `Admin` | Break officially ended | Post-exam break complete. Confirmed resume date: 2026-06-21. Will watch second half of Pydantic V2 video tomorrow. |
+| **2026-06-20** | `Admin` | Break officially ended | Post-exam break complete. Confirmed resume date: 2026-06-21. |
+| **2026-06-21** | `Phase 01` | Pydantic V2 (Section 1.6) – Video & Practice | Completed CampusX Pydantic V2 crash course (watched from start). Wrote 5 Pydantic scripts: `field_validator.py`, `model_validator.py`, `nested_models.py`, `computed_fields.py`, `serilization.py`. Committed to GitHub. |
 
 ---
 
 ## 📋 Phase Quick-Reference
 
-* **Phase 01:** Foundations (Python, uv, AsyncIO, Pydantic, Git) – ⏸ **Paused** (Pydantic V2 1/3 done, AsyncIO not started)
+* **Phase 01:** Foundations (Python, uv, AsyncIO, Pydantic, Git) – 🔄 **In progress** (Pydantic V2 2/3 done, AsyncIO not started)
 * **Phase 02:** Algorithms (NeetCode logs only) – ⏸ **Paused** (3 problems solved)
 * **Phase 03:** Dev & MCP (Linux, SSH, MCP server) – ✅ Complete
 * **Phase 03C:** Prompt Engineering (YAML templates, meta‑prompting) – ⏳ Not started
