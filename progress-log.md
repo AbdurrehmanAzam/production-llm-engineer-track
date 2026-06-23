@@ -12,10 +12,10 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 
 ## 🎯 Current Focus & Next Up
 
-- **Current Focus:** `Phase 1 – Section 1.6 Pydantic V2` – ✅ **COMPLETE**. Watched the full CampusX Pydantic V2 crash course, wrote 5 practice scripts (`field_validator`, `model_validator`, `nested_models`, `computed_fields`, `serialization`), and read the official Pydantic V2 documentation.
-- **Next Up:** Start **Section 1.7 – AsyncIO** (1 week). Watch ArjanCodes "AsyncIO Finally Explained" and read the Real Python AsyncIO guide. Build the Phase 1 async scraper deliverable.
+- **Current Focus:** `Phase 1 – Section 1.7 AsyncIO` – 🔄 **In progress**. Watched first 10 minutes of Tech With Tim AsyncIO tutorial (covered event loop, coroutines, `async def` / `await`).
+- **Next Up:** Continue watching AsyncIO video tomorrow, then write the async scraper deliverable. After that, read the Real Python AsyncIO guide.
 
-**Phase 01 is 🔄 in progress** (Pydantic V2 ✅ complete, AsyncIO not started).
+**Phase 01 is 🔄 in progress** (Pydantic V2 ✅ complete, AsyncIO 🔄 started).
 **Phase 03 & 3B (MCP) are ✅ complete** (Linux, SSH, MCP server built).
 **Phase 2 is ⏸ paused** – will resume daily NeetCode after Phase 1 is fully complete.
 
@@ -79,12 +79,13 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 | **2026-06-20** | `Admin` | Break officially ended | Post-exam break complete. Confirmed resume date: 2026-06-21. |
 | **2026-06-21** | `Phase 01` | Pydantic V2 (Section 1.6) – Video & Practice | Completed CampusX Pydantic V2 crash course (watched from start). Wrote 5 Pydantic scripts: `field_validator.py`, `model_validator.py`, `nested_models.py`, `computed_fields.py`, `serilization.py`. Committed to GitHub. |
 | **2026-06-22** | `Phase 01` | Pydantic V2 (Section 1.6) – Documentation | ✅ **SECTION 1.6 COMPLETE**. Read the official Pydantic V2 documentation: focused on `model_config`, `extra="forbid"`, `field_validator` vs `model_validator` modes, and serialization options (`exclude_unset`, `exclude_none`). |
+| **2026-06-23** | `Phase 01` | AsyncIO (Section 1.7) – Video | Watched first 10 minutes of Tech With Tim AsyncIO tutorial. Covered event loop, coroutines, `async def` / `await`. Will continue tomorrow. |
 
 ---
 
 ## 📋 Phase Quick-Reference
 
-* **Phase 01:** Foundations (Python, uv, AsyncIO, Pydantic, Git) – 🔄 **In progress** (Pydantic V2 ✅ complete, AsyncIO not started)
+* **Phase 01:** Foundations (Python, uv, AsyncIO, Pydantic, Git) – 🔄 **In progress** (Pydantic V2 ✅ complete, AsyncIO 🔄 started)
 * **Phase 02:** Algorithms (NeetCode logs only) – ⏸ **Paused** (3 problems solved)
 * **Phase 03:** Dev & MCP (Linux, SSH, MCP server) – ✅ Complete
 * **Phase 03C:** Prompt Engineering (YAML templates, meta‑prompting) – ⏳ Not started
