@@ -35,24 +35,25 @@ This repository serves as a **transparent, reproducible audit trail** mapping a 
 
 ---
 
-## 🗺️ Architectural Roadmap (14 Phases)
+## 🗺️ Architectural Roadmap (Phase 0–12)
 
 | Phase | Module | Status |
 | :---: | :--- | :---: |
-| **01** | **Foundations:** Python, uv, AsyncIO, Pydantic, Git | ✅ |
-| **02** | **Algorithms:** NeetCode 150 (Space/Time Complexity) | 🔄 |
-| **03** | **Dev & MCP:** Linux, SSH, Model Context Protocol | 🔄 |
-| **03C** | **Prompt Engineering:** YAML templates, Meta-prompting | ⏳ |
-| **04** | **Mathematics:** Linear Algebra, Cosine Similarity | ⏳ |
-| **05** | **Data Engineering:** SQL, Pandas, HF Hub Pipeline | ⏳ |
-| **05B** | **Parsing & Chunking:** Unstructured, Semantic Splitters | ⏳ |
-| **06** | **Hybrid RAG:** Qdrant, BM25, RRF, Redis | ⏳ |
-| **07** | **FastAPI & Evals:** Production APIs, DeepEval, CI/CD | ⏳ |
-| **08** | **Karpathy & Serving:** GPT from scratch, Tokenizers, vLLM | ⏳ |
-| **09** | **LangGraph & Memory:** Checkpointers, Langfuse | ⏳ |
-| **10** | **Capstone:** Enterprise Answer Engine | ⏳ |
-| **11** | **Interview Prep:** System Design Scripts | ⏳ |
-| **12** | **Portfolio:** Astro Deployment | ⏳ |
+| **00** | **Foundation:** uv, Git, WSL2, Cursor | ⏳ |
+| **01** | **Python for LLM:** AsyncIO, Pydantic V2, Type Hints, Context Managers | 🔄 |
+| **02** | **DSA:** 37 NeetCode Problems | ⏳ |
+| **03** | **Dev & MCP:** Linux, SSH, Free Inference (Groq/AI Studio), MCP | ⏳ |
+| **03C** | **Prompt Engineering:** CoT, ReAct, XML, Few-Shot, Meta-Prompting | ⏳ |
+| **04** | **Math:** 3Blue1Brown, StatQuest, NumPy Cosine Similarity | ⏳ |
+| **05** | **Data Engineering:** SQL, Pandas, APIs, Hugging Face Hub | ⏳ |
+| **05B** | **Parsing & Chunking:** Docling, Unstructured, LangChain Splitters | ⏳ |
+| **06** | **Hybrid RAG:** Qdrant, Redis, BM25, FlashRank, RRF | ⏳ |
+| **07** | **FastAPI & Evals:** FastAPI, Docker, DeepEval, GitHub Actions, Guardrails | ⏳ |
+| **08** | **LLM Internals:** Karpathy Series, Ollama, vLLM, unsloth | ⏳ |
+| **09** | **Multi-Agent:** LangGraph, Pydantic AI, Langfuse, Memory Systems | ⏳ |
+| **10** | **Capstone:** Enterprise Answer Engine (LiteLLM + LangGraph + Railway) | ⏳ |
+| **11** | **Interview Prep:** 5 System Design Questions | ⏳ |
+| **12** | **Portfolio:** Astro, Cloudflare Pages / Vercel | ⏳ |
 
 > 📘 **Detailed phase logs** are maintained in the `phases/` directory.
 

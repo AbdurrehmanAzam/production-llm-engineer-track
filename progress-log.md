@@ -110,3 +110,5 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 - [ ] Polish any project READMEs (screenshots, diagrams)
 - [ ] Post a LinkedIn update
 - [ ] Review ethical reflection log (15 min)
+
+| **2026-06-24** | `Admin` | Roadmap finalised | Switched to Phase 0–12 structure. Existing work copied to new folders. |
