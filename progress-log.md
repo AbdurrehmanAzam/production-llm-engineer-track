@@ -12,10 +12,10 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 
 ## 🎯 Current Focus & Next Up
 
-- **Current Focus:** `Phase 1 – Section 1.7 AsyncIO` – 🔄 **In progress**. Watched first 10 minutes of Tech With Tim AsyncIO tutorial (covered event loop, coroutines, `async def` / `await`). Repository successfully migrated to Phase 0–12 final roadmap structure.
-- **Next Up:** Continue watching AsyncIO video, then write the async scraper deliverable. After that, read the Real Python AsyncIO guide.
+- **Current Focus:** `Phase 1 – Section 1.7 AsyncIO` – ✅ **Video complete**. Finished the Tech With Tim AsyncIO tutorial. Covered event loop, coroutines, `async def` / `await`, `asyncio.gather()`, and tasks.
+- **Next Up:** Write the async scraper deliverable – fetch 3 APIs concurrently with `asyncio.gather()`, validate with Pydantic V2, and write results asynchronously. After that, read the Real Python AsyncIO guide.
 
-**Phase 01 is 🔄 in progress** (Pydantic V2 ✅ complete, AsyncIO 🔄 started).
+**Phase 01 is 🔄 in progress** (Pydantic V2 ✅ complete, AsyncIO 🔄 video done – scraper pending).
 **Phase 03 & 3B (MCP) are ✅ complete** (Linux, SSH, MCP server built).
 **Phase 2 is ⏸ paused** – will resume daily NeetCode after Phase 1 is fully complete.
 
@@ -81,12 +81,13 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 | **2026-06-22** | `Phase 01` | Pydantic V2 (Section 1.6) – Documentation | ✅ **SECTION 1.6 COMPLETE**. Read the official Pydantic V2 documentation: focused on `model_config`, `extra="forbid"`, `field_validator` vs `model_validator` modes, and serialization options (`exclude_unset`, `exclude_none`). |
 | **2026-06-23** | `Phase 01` | AsyncIO (Section 1.7) – Video | Watched first 10 minutes of Tech With Tim AsyncIO tutorial. Covered event loop, coroutines, `async def` / `await`. Will continue tomorrow. |
 | **2026-06-24** | `Admin` | Roadmap finalised | Switched to Phase 0–12 structure (LLM_Engineer_Roadmap_2026_FINAL.docx). Existing work copied to new folders. |
+| **2026-06-25** | `Phase 01` | AsyncIO (Section 1.7) – Video | ✅ **VIDEO COMPLETE**. Finished Tech With Tim AsyncIO tutorial. Covered `asyncio.gather()` and tasks. Ready to build async scraper deliverable. |
 
 ---
 
 ## 📋 Phase Quick-Reference
 
-* **Phase 01:** Foundations (Python, uv, AsyncIO, Pydantic, Git) – 🔄 **In progress** (Pydantic V2 ✅ complete, AsyncIO 🔄 started)
+* **Phase 01:** Foundations (Python, uv, AsyncIO, Pydantic, Git) – 🔄 **In progress** (Pydantic V2 ✅ complete, AsyncIO ✅ video done – scraper pending)
 * **Phase 02:** Algorithms (NeetCode logs only) – ⏸ **Paused** (3 problems solved)
 * **Phase 03:** Dev & MCP (Linux, SSH, MCP server) – ✅ Complete
 * **Phase 03C:** Prompt Engineering (YAML templates, meta‑prompting) – ⏳ Not started
