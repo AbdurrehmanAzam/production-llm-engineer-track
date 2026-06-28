@@ -12,13 +12,10 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 
 ## 🎯 Current Focus & Next Up
 
-- **Current Focus:** `Phase 1 – Section 1.7 AsyncIO` – ✅ **COMPLETE**. Finished the Tech With Tim AsyncIO tutorial and wrote the async RAG client deliverable. **Phase 1 is now officially complete.**
-- **Next Up:** Choose next phase:
-  - **Phase 2 (DSA)** – resume daily NeetCode routine (you already solved 3 problems)
-  - **Phase 3C (Prompt Engineering)** – 1 week of prompt patterns
-  - **Phase 3 (Dev Tooling & MCP)** – free inference setup, MCP server
+- **Current Focus:** `Phase 1 – Section 1.4 Type Annotations & mypy` – 🔄 **In progress**. Watched first half of Corey Schafer's "Type Hints vs Type Checking vs Data Validation" tutorial. Installed mypy (`uv add mypy`). Will finish the second half tomorrow and run mypy on `async_rag_client.py`.
+- **Next Up:** Complete the mypy video, run mypy on the async RAG client, fix any errors, then move to Phase 2 (DSA) or Phase 3C (Prompt Engineering).
 
-**Phase 01 is ✅ complete** (Pydantic V2 ✅, AsyncIO ✅, deliverable ✅).
+**Phase 01 is 🔄 in progress** (Pydantic V2 ✅ complete, AsyncIO ✅ complete, Type Annotations 🔄 half-done).
 **Phase 03 & 3B (MCP) are ✅ complete** (Linux, SSH, MCP server built).
 **Phase 2 is ⏸ paused** – will resume daily NeetCode after Phase 1 is fully complete.
 
@@ -85,13 +82,15 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 | **2026-06-23** | `Phase 01` | AsyncIO (Section 1.7) – Video | Watched first 10 minutes of Tech With Tim AsyncIO tutorial. Covered event loop, coroutines, `async def` / `await`. Will continue tomorrow. |
 | **2026-06-24** | `Admin` | Roadmap finalised | Switched to Phase 0–12 structure (LLM_Engineer_Roadmap_2026_FINAL.docx). Existing work copied to new folders. |
 | **2026-06-25** | `Phase 01` | AsyncIO (Section 1.7) – Video | ✅ **VIDEO COMPLETE**. Finished Tech With Tim AsyncIO tutorial. Covered `asyncio.gather()` and tasks. Ready to build async scraper deliverable. |
-| **2026-06-26** | `Phase 01` | AsyncIO (Section 1.7) – Deliverable | ✅ **PHASE 1 COMPLETE**. Wrote `async_rag_client.py` – fetches 3 APIs concurrently with `httpx.AsyncClient()`, validates with Pydantic V2, logs wall-clock time, compares concurrent vs sequential. All Phase 1 deliverables done. |
+| **2026-06-26** | `Phase 01` | AsyncIO (Section 1.7) – Deliverable | ✅ **PHASE 1 DELIVERABLE COMPLETE**. Wrote `async_rag_client.py` – fetches 3 APIs concurrently with `httpx.AsyncClient()`, validates with Pydantic V2, logs wall-clock time, compares concurrent vs sequential. |
+| **2026-06-27** | `Break` | Low energy | Took a rest day. Resuming tomorrow. |
+| **2026-06-28** | `Phase 01` | Type Annotations & mypy (Section 1.4) – Video | Watched first half of Corey Schafer's "Type Hints vs Type Checking vs Data Validation" tutorial. Installed mypy (`uv add mypy`). Will finish second half tomorrow and run mypy on `async_rag_client.py`. |
 
 ---
 
 ## 📋 Phase Quick-Reference
 
-* **Phase 01:** Foundations (Python, uv, AsyncIO, Pydantic, Git) – ✅ **COMPLETE**
+* **Phase 01:** Foundations (Python, uv, AsyncIO, Pydantic, Git, Type Annotations) – 🔄 **In progress** (Type Annotations half-done)
 * **Phase 02:** Algorithms (NeetCode logs only) – ⏸ **Paused** (3 problems solved)
 * **Phase 03:** Dev & MCP (Linux, SSH, MCP server) – ✅ Complete
 * **Phase 03C:** Prompt Engineering (YAML templates, meta‑prompting) – ⏳ Not started
@@ -116,4 +115,3 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 - [ ] Polish any project READMEs (screenshots, diagrams)
 - [ ] Post a LinkedIn update
 - [ ] Review ethical reflection log (15 min)
-| **2026-06-27** | `Break` | Low energy | Took a rest day. Resuming tomorrow. |
