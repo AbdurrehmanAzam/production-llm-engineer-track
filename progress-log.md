@@ -116,3 +116,4 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 - [ ] Post a LinkedIn update
 - [ ] Review ethical reflection log (15 min)
 | **2026-06-29** | `Break` | Rest day | Took a break. Resuming tomorrow with second half of mypy video. |
+| **2026-06-30** | `Break` | Fever | Not feeling well. Taking a sick day. Resuming when better. |
